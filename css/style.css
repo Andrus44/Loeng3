@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100&family=Mulish:ital,wght@1,1000&display=swap');
+body {
+    background-color: rgb(201, 252, 0);
+}
+.header{
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    color: cadetblue;
+}
+.ingridients {
+    border: 1px solid ;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ingridients-table{
+    border: 1px solid blueviolet;
+    margin: auto;
+}
+.instructions{
+    border: 1px solid blueviolet;
+    width: 50% ;
+    margin: 0 auto;
+}
+
+.picture {
+  text-align: center;
+   
+}
+
+.footer{
+font-family: 'Kanit', sans-serif;
+text
+}
